@@ -1,6 +1,6 @@
 # Natural Language Processing with nltk
 
-<a href = "https://www.nltk.org">nltk</a>" stands for "Natural Language Processing ToolKit".
+<a href = "https://www.nltk.org">nltk</a> stands for "Natural Language Processing ToolKit".
 It is a standalone library for NLP in Python.
 
 ## Topics:
