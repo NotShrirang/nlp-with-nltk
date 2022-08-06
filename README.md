@@ -25,3 +25,7 @@ It is a standalone library for NLP in Python.
 18. <a href = "https://github.com/NotShrirang/nlp-with-nltk/blob/main/18_better_training_data.ipynb">Better Training Data<a>
 19. <a href = "https://github.com/NotShrirang/nlp-with-nltk/blob/main/19_sentiment_analysis_model_part_1.ipynb">Sentiment Analysis Model - Part I<a>
 20. <a href = "https://github.com/NotShrirang/nlp-with-nltk/blob/main/20_sentiment_analysis_model_part_2.ipynb">Sentiment Analysis Model - Part II<a>
+
+## Sentiment Analysis Module:
+A model which can predict whether the movie review is positive or negative when review is passed.<br>
+Check here: https://github.com/NotShrirang/nlp-with-nltk/tree/main/sentiment_module
